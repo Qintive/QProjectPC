@@ -1,0 +1,39 @@
+.sidebar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+}
+
+.cards {
+    background-color: #FFF;
+    padding-bottom: 3rem;
+}
+
+.topSale {
+    background-image: linear-gradient(to bottom, #F5F3F3, #FFF);
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding-top: 4rem;
+    padding-bottom: 5rem;
+  }
+
+.consultation {
+    background-image: linear-gradient(to right, #F5F3F3, #FFF);
+}
+
+.title {
+    color: #3F3F3F;
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 1000;
+    line-height: normal;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
